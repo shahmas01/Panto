@@ -1,0 +1,597 @@
+.banner img
+{
+  height:1152px;
+}
+ 
+.transparent
+{
+    background-color:transparent !important;
+}
+ .navv
+ {
+       padding: 40px 80px 0px 80px;
+    justify-content: space-around;
+ }
+ .logo
+ {
+     color:white;
+    font-size:35px;
+    font-weight:700;
+ }
+.panto
+{
+     margin:0px 0px 0px 40px;
+    color:white;
+    font-size:30px;
+    width: max-content;
+     font-weight:200;
+}
+.panto ul
+{
+    gap:30px;
+}
+ ul.nav-bar
+ {
+    gap:50px;
+ }
+  
+.nav-cont li
+{
+    color:white;
+}
+.z-index
+{
+    width:100%;
+}
+.text1
+{
+    align-items:center;
+    font-size:24px;
+    font-weight:100;
+         top: 25%;
+
+ }
+.text1 h1
+{
+    font-size:80px;
+   
+}
+.cart img
+{
+    width: 34px;
+    height: 34px;
+    margin-left: 80px;
+}
+.searchbar
+{
+    background:#b8b8b859;
+    border-radius:42px;
+     
+}
+.bannercontent
+{
+   margin: 120px 80px 120px 80px;
+
+     
+}
+.bannercontent h2
+{
+    font-size:42px;
+    text-align:left;
+}
+.bannercontent h6
+{
+    font-size:24px;
+    text-align:left;
+}
+.bannercontent p
+{
+    font-size:16px;
+    text-align:left;
+    font-weight:100;
+}
+.info
+{
+    text-decoration: none;
+    color: #E58411;
+    font-weight:100;
+}
+.sellingpage
+{
+        background-color: #F7F7F7;
+        padding:50px;
+
+}
+.productselling h2
+{
+ font-size:42px;
+ text-align:center;
+}
+.choicebar
+{ 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #EEEEEE;
+    border-radius: 44px;
+    padding: 6px;
+    width: 348px;
+    height: 57px;
+    place-self: center;
+    margin-top: 38px;
+}
+.choicebar :hover
+{
+    background-color:white;
+    border-radius:32px;
+    width:84px;
+    text-align:center;
+}
+.chairs
+{
+    display:flex;
+    margin: 120px 80px 60px 80px;
+    justify-content: space-evenly;
+     
+}
+.chairs img
+{
+    background: #FAFAFA;
+
+}
+.chairs div
+{
+       border: none !important;
+}
+.chairs h5
+{
+    font-size:16.76px;
+    color:#8D8D8D;
+    font-weight:400;
+}
+.chairs p
+{
+    font-size:21.33px;
+    color:#0D1B39;
+    font-weight:600;
+}
+.price 
+{
+ display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:5px;
+}
+.price p1
+{
+    font-size:21.33px;
+    color:#0D1B39;
+    font-weight:600;
+}
+.view
+{
+    text-decoration: none;
+    color: #E58411;
+    margin:0px 652px 0px 650px;
+}
+.experience
+{
+     padding:300px 0px 240px 0px;
+}
+.experience img
+{
+width:629px;
+border-radius:0px 20px 20px 0px;
+box-shadow: 0px 30px 50px 0px rgba(184, 109, 35, 0.38);
+backdrop-filter: blur(50px)
+}
+.experience p2
+{
+    color: #E58411;
+    font-size:28px;
+    font-weight: 400;
+}
+.experience h2
+{
+ font-size:42px;
+ text-align:left;
+ color:#1E1E1E;
+ font-weight:700;
+}
+.description
+{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+     font-size: 16px;
+    text-align: left;
+    font-weight: 100;
+        width: 556px;
+    padding: 37px;
+        justify-content: center;
+
+}
+.img2
+{
+    display:flex;
+    flex-direction:column;
+    gap:47px;
+}
+ img.a
+ {
+    height:338px;
+    width:223px;
+ }
+ 
+ img.b
+ {
+    width:223px;
+ }
+ img.c
+ {
+    height:455px;
+    width:100%;
+    margin
+ }
+ .material .row
+ {
+justify-content:space-between;
+
+ }
+ .material
+ {
+    margin-left:80px;
+   
+ }
+ 
+ .material p2
+{
+    color: #E58411;
+    font-size:28px;
+    font-weight: 400;
+}
+.material h2
+{
+ font-size:42px;
+ text-align:left;
+ color:#1E1E1E;
+ font-weight:700;
+}
+.pic 
+{
+    display:flex;
+    justify-content:space-between;
+}
+.imag
+{
+        align-content: center;
+}
+.description2
+{
+     width: 458px;
+     display:flex;
+    flex-direction:column;
+    gap:20px;
+     font-size: 16px;
+    text-align: left;
+    font-weight: 100;
+        justify-content: center;
+
+}
+.title
+{
+    margin-top:240px;
+}
+.title h2
+{
+    font-size:42px;
+ text-align:center;
+ font-weight: 700;
+
+}
+ .title h3
+{
+    color: #E58411;
+    font-size:28px;
+    font-weight: 300;
+    text-align:center;
+
+}
+.testimonials
+{
+    display:flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 60px;
+
+}
+.client
+{
+    background-color:rgba(255, 255, 255, 1);
+    width:334px;
+    color:rgba(30, 30, 30, 1);
+    border-radius:10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height:206px;
+    justify-content: end;
+    padding: 0px 40px 15px 40px;
+    gap:5px;
+}
+.client img 
+{
+    width:fit-content;
+    align-self: center;
+
+}
+.client h4
+{
+    font-size:18px;
+}
+.client p4
+{
+    font-size:14px;
+    font-weight:200;
+
+}
+.client h6
+{
+    font-size:12px;
+    font-weight:100;
+}
+.top
+{
+    margin-top:240px;
+}
+.profile1 
+{
+background:white;
+border-radius:50%;
+}
+.profile3
+{
+background:white;
+border-radius:50%;
+margin:20px;
+}
+.profile2
+{
+background:white;
+border-radius:50%;
+margin:20px;
+    border: white solid 7px;
+}
+ 
+div.footer
+{
+    padding: 118px 188px 198px 188px;
+    display:flex;
+    flex-direction:column;
+    background-color:rgba(247, 247, 247, 1)
+
+}
+ .footer-content
+{
+    display:flex;
+    width: 100%;
+     padding:20px;
+}
+.footer-content h5
+{
+    font-size:28px;
+    font-weight:700;
+    color:rgba(30, 30, 30, 1);
+}
+.footer-content h3
+{
+    font-size:17px;
+    font-weight:400;
+    color:rgba(246, 151, 63, 1);
+}
+.footer-content p
+{
+    font-size:15px;
+    font-weight:200;
+    color:rgba(30, 30, 30, 1);
+    width:255px;
+}
+.copy p
+{
+    font-size:15px;
+    font-weight:200;
+    color:rgba(30, 30, 30, 1);
+}
+.copy
+{
+    padding: 5px 180px 0px 10px;
+}
+
+
+
+
+@media (max-width: 575.98px)
+ { 
+
+    .bannercontent
+    {
+        margin:60px;
+    }
+.banner img
+{
+  height: auto;
+}
+.experience img
+{
+    width:350px;
+}
+.chairs
+ {
+        flex-direction: column;
+        align-items: center;
+        margin: 30px;
+        gap: 30px;
+    }
+.experience 
+{
+    padding: 60px 0px 30px 0px;
+}
+  .material 
+{
+    margin :20px;
+}
+.view {
+    text-decoration: none;
+    color: #E58411;
+    margin :10px;
+}
+.testimonials
+{
+    flex-direction:column;
+    gap:50px;
+    padding:8px;
+}
+div.footer
+{
+    padding:20px;
+}
+.copy
+{
+    padding:0px;
+}
+.description2
+{
+    padding:20px;
+}
+img.b {
+    width: 350px;
+    padding: 20px;
+}
+img.a {
+     width: 350px;
+    padding: 20px;
+}
+img.c {
+     width: 350px;
+    padding: 20px;
+    border-radius:42px;
+}
+.img2 {
+    display: flex;
+    flex-direction: column;
+    gap:0px;
+}
+ 
+.pic
+{    
+    flex-direction: column;
+}
+.title
+{
+    padding: 30px;
+    margin: 0px;
+}
+div.client
+{
+    width: 260px;
+    justify-self: center;
+    padding: 20px;
+}
+.profile2 {
+    background: white;
+    border-radius: 50%;
+    margin:0px;
+}
+.text1 h1 {
+    font-size: 20px;
+}
+.text1 {
+    align-items: center;
+    font-size: 9px;
+    font-weight: 100;
+    top: 15%;
+}
+.navv
+ {
+       padding:0px;
+   
+ }
+}
+
+@media (max-width: 991.98px)
+ { 
+    .bannercontent {
+    margin: 70px;
+    padding: 30px;
+}
+.text1 h1 {
+    font-size: 37px;
+}
+.text1 p
+{
+    font-size: 15px;
+}
+.banner img
+{
+  height: auto;
+}
+.view {
+    
+    margin: 0px ;
+}
+.testimonials
+{
+    flex-direction:column;
+}
+div.chairs
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.pic {
+    width: 100%;
+    padding: 20px;
+}
+.title {
+    margin-top: 100px;
+}
+.division
+{
+    padding:25px;
+}
+.experience p
+{
+    font-size:24px;
+}
+.material p
+{
+    font-size:24px;
+}
+.info {
+    font-size: 23px;
+    font-weight: 100;
+}
+.bannercontent div
+{
+    gap:30px;
+}
+.bannercontent p {
+    font-size: 25px;
+}
+.bannercontent h6 {
+    font-size: 30px;
+}
+.productselling h2 {
+    font-size: 60px;
+}
+.choicebar
+{
+    width:450px;
+}
+.experience {
+    padding: 30px;
+}
+
+
+  }
